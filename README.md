@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Boran from Turkey and I'm studying math at university. In my free time I really enjoy learning new things like Python or Cyber Security You can check out my projects at https://github.com/cetinboran.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cetinboran)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cetinboran/cetinboran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
