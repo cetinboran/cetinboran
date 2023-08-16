@@ -10,7 +10,7 @@ I'm Boran from Turkey and I'm studying math at university. In my free time I rea
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning Python - Cyber Security 
 
-
+&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cetinboran)  
 &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/2023an_m/) 
