@@ -1,6 +1,5 @@
-<center>
 # Hi there 👋, I'm Çetin Boran Mesüm
-</center>
+
 ## About Me
 I am studying Mathematics and Computer Engineering at Bülent Ecevit University in Zonguldak. Additionally, I am receiving cybersecurity training at Siber Vatan. You can find more information on my site. [cetinboran](https://cetinboran.github.io)
 
