@@ -22,20 +22,7 @@ I am studying Mathematics and Computer Engineering at Bülent Ecevit University 
     + [goarg](https://github.com/cetinboran/goarg)
     + [gojson](https://github.com/cetinboran/gojson)
     + [gosec](https://github.com/cetinboran/GoSec)
-
 ---
-
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=cetinboran" alt="GitHub streak stats">
-</p>
-
-
-
-
----
- 
-
 <p align="center">
   <a href="https://github.com/cetinboran">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
@@ -50,7 +37,3 @@ I am studying Mathematics and Computer Engineering at Bülent Ecevit University 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
   </a>
 </p>
-
-
-
-
