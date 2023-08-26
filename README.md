@@ -26,7 +26,10 @@ I am studying Mathematics and Computer Engineering at Bülent Ecevit University 
 ---
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=cetinboran)
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=cetinboran" alt="GitHub streak stats">
+</p>
+
 
 
 
