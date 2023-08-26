@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Başlık</h1>
+  <h1>Hey! I'm Boran</h1>
 </div>
 
 ## About Me
