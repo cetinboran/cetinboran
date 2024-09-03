@@ -1,42 +1,66 @@
+<h2 align="center">Hi! My name is Çetin Boran</h2>
+
+###
+
 <div align="center">
-  <h1>Hey! I'm Boran</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=cetinboran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cetinboran&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## About Me
-I am studying Mathematics and Computer Engineering at Bülent Ecevit University in Zonguldak. Additionally, I am receiving cybersecurity training at Siber Vatan. You can find more information on my site. [cetinboran](https://cetinboran.github.io)
+###
 
-## Skills
-### Coding
-  + Python
-  + Go
-  + Html, Css
-  + C++
-### Cyber Security
-+ I received the trainings mentioned below from Siber Vatan.
-  + Kali Linux, CEH
-  + Penetration Testing
-  + Reverse Engineering
-  + Web Security
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-## What I'm Doing
-+ I spend my free time by working on projects or preparing for my university courses.
-+ I would appreciate it if you could take a look at the three simple projects.
-    + [goarg](https://github.com/cetinboran/goarg)
-    + [gojson](https://github.com/cetinboran/gojson)
-    + [gosec](https://github.com/cetinboran/GoSec)
+###
 
-# Contact
-<p align="center">
-  <a href="https://github.com/cetinboran">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+<div align="left">
+  <a href="https://www.linkedin.com/in/cetinboran/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/cetinboran-mesum/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
-  </a>
-  <a href="https://www.instagram.com/2023an_m/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
-  </a>
-  <a href="https://twitter.com/2023anM">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
-  </a>
-</p>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cetinboran/cetinboran/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="center">I am studying Mathematics and Computer Engineering at Bülent Ecevit University in Zonguldak. For the past two years, I have been part of the Siber Vatan cybersecurity program, where I currently serve as the leader of the software unit.</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cetinboran/count.svg?"  />
+</div>
+
+###
