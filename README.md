@@ -49,12 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cetinboran/cetinboran/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">I am studying Mathematics and Computer Engineering at Bülent Ecevit University in Zonguldak. For the past two years, I have been part of the Siber Vatan cybersecurity program, where I currently serve as the leader of the software unit.</p>
 
 ###
