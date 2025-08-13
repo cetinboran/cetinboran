@@ -15,11 +15,25 @@
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python, Go, JavaScript, PHP  
-- **Web:** React, Node.js, Express, HTML, CSS  
-- **Tools:** Docker, Nginx, Postman, Git, Linux, Figma  
-- **Databases:** PostgreSQL, MySQL  
+### 🛠 Backend Development
+- **Languages & Frameworks:** Go, SQL, REST APIs  
+- **Architecture:** Katmanlı Mimari, Clean Code, Domain-Driven Design (DDD)  
+- **Networking:** TCP tabanlı uygulama geliştirme (Go ile)  
+- **Databases:** PostgreSQL (uzmanlık), MySQL  
+- **DevOps & Deployment:** Docker, Docker Compose, Nginx  
+- **Blockchain:** Golang & Node.js ile Web3 entegrasyonu  
+
+---
+
+### 🎨 Frontend Development
+- React.js (Temel Seviye), HTML, CSS, JavaScript (Temel Seviye)  
+
+---
+
+### 🔐 Cybersecurity
+- **OS & Tools:** Linux, Burp Suite, Nmap, Hydra  
+- **Areas:** Web Güvenliği, Sızma Testi (Pentest), Tersine Mühendislik  
+- **Practices:** Ağ tarama, zafiyet analizi, temel exploit geliştirme  
 
 ---
 
