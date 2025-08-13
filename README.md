@@ -40,5 +40,4 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinboran&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinboran&layout=compact&theme=default" height="150"/>
 </p>
