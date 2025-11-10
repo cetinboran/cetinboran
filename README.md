@@ -11,6 +11,9 @@
   <a href="https://github.com/cetinboran" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  <a href="https://cetinboran.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white" />
+  </a>
 </p>
 
 ---
